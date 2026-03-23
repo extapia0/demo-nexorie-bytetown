@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Nexorie favicon</title>
+  <desc id="desc">Rounded square icon with a stylized N in blue and violet gradients.</desc>
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3f477d" />
+      <stop offset="1" stop-color="#171b33" />
+    </linearGradient>
+    <linearGradient id="glyphLeft" x1="15" y1="18" x2="28" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b7c7ff" />
+      <stop offset="1" stop-color="#6c84ff" />
+    </linearGradient>
+    <linearGradient id="glyphRight" x1="30" y1="16" x2="47" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9fb1ff" />
+      <stop offset="1" stop-color="#8a5bff" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#060814" flood-opacity=".35" />
+    </filter>
+  </defs>
+
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#bg)" />
+  <rect x="4.5" y="4.5" width="55" height="55" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity=".08" />
+  <g filter="url(#shadow)">
+    <path
+      d="M17 43.5c-1.9 0-3.4-1.5-3.4-3.4 0-.6.2-1.2.5-1.8l8.3-15.2c1.2-2.3 4.5-2.2 5.6.1l4 8.1-5.8 10.7c-.6 1-1.7 1.5-2.9 1.5z"
+      fill="url(#glyphLeft)"
+    />
+    <path
+      d="M28.8 20.6c1.2-2.2 4.4-2.3 5.8-.2l8.9 13.7c1.5 2.3-.1 5.4-2.9 5.4h-3.5c-1.2 0-2.2-.6-2.9-1.6l-6.8-10.8z"
+      fill="url(#glyphRight)"
+    />
+    <circle cx="20.4" cy="40.2" r="4.6" fill="#d9e2ff" />
+  </g>
+</svg>
