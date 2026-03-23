@@ -1,0 +1,21 @@
+<svg width="258" height="178" viewBox="0 0 258 178" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M88.5 12.5C100.563 4.63136 115.647 0 129 0C142.353 0 157.437 4.63136 169.5 12.5L228 50.5C245.012 61.5536 258 81.7784 258 99.5C258 117.222 245.012 137.446 228 148.5L169.5 186.5C157.437 194.369 142.353 199 129 199C115.647 199 100.563 194.369 88.5 186.5L30 148.5C12.988 137.446 0 117.222 0 99.5C0 81.7784 12.988 61.5536 30 50.5L88.5 12.5Z" fill="url(#paint0_linear_202_4)" transform="translate(0 -10.5)"/>
+  <g filter="url(#filter0_f_202_4)">
+    <path d="M90 34L73 55" stroke="#FDFDFF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M90 145L73 124" stroke="#FDFDFF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M168 34L185 55" stroke="#FDFDFF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M168 145L185 124" stroke="#FDFDFF" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="129" y="96" text-anchor="middle" fill="#2C326E" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AI ENGINE</text>
+  <defs>
+    <filter id="filter0_f_202_4" x="58.5" y="19.5" width="141" height="140" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="6.5" result="effect1_foregroundBlur_202_4"/>
+    </filter>
+    <linearGradient id="paint0_linear_202_4" x1="31" y1="31" x2="233" y2="173" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E7EBFF"/>
+    </linearGradient>
+  </defs>
+</svg>
